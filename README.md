@@ -63,7 +63,10 @@
       border-radius: 15px;
       box-shadow: 0 0 30px gold;
     }
-  
+  </style>
+</head>
+<body>
+
 
 
   <h1>🎆 Happy Diwali 🎆</h1>
