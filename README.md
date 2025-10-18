@@ -71,7 +71,7 @@
   <button onclick="showPopup()">Tap to collect your gift 🎁</button>
 
   <div class="popup" id="popup" onclick="hidePopup()">
-    <img src="gift.jpg" alt="Your Gift"> <WhatsApp Image 2025-10-18 at 09.27.32_db61fa98.jpg>
+    <img src="WhatsApp Image 2025-10-18 at 09.27.32_db61fa98.jpg" alt="Your Gift"> <WhatsApp Image 2025-10-18 at 09.27.32_db61fa98.jpg>
   </div>
 
   <script>
